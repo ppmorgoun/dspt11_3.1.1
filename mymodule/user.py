@@ -1,0 +1,2 @@
+user = "bob"
+admin="petr"
