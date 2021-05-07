@@ -1,0 +1,1 @@
+Please use my software this way, not that way, or that way.
